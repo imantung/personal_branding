@@ -8,7 +8,7 @@ iman.tung@gmail.com  │  \+62 813-8978-0501  │  Jakarta, Indonesia
 
 # **OVERVIEW**
 
-Engineering leader with 15+ years across on-demand mobility, travel marketplace, regulated fintech lending, and hospitality technology. Has led organizations of 30 to 50+ engineers, spanning product engineering, DevOps, data, and technical operations, with a track record of turning legacy complexity into clear roadmaps, sound IT governance, and predictable delivery. Began as a hands-on backend engineer (Go, distributed systems), so leads with technical credibility as well as people leadership, and is a certified professional coach. Hands-on with LLM application development, including building an AI chat assistant integrated into an open-source ERP system, with a pragmatic, cost-conscious view of where AI adds real value.
+Engineering leader with 15+ years across on-demand mobility, travel marketplace, regulated fintech lending, and hospitality technology. Has led organizations of 30 to 50+ engineers, spanning product engineering, DevOps, data, and technical operations, with a track record of turning legacy complexity into clear roadmaps, sound IT governance, and predictable delivery. Began as a hands-on backend engineer (Go, distributed systems), so leads with technical credibility as well as people leadership, and is a certified professional coach. Currently building an early-stage AI chat assistant for the open-source ERPNext system as an independent prototype, with a pragmatic, cost-conscious view of where AI adds real value.
 
 * **Org scope:** 30 to 50+ engineers; multi-division organizations (Software Engineering, IoT, DevOps, Data, TechOps)  
 * **Domains:** Regulated fintech lending (LOS/LMS), hospitality technology, travel marketplace, on-demand mobility  
@@ -16,19 +16,35 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 # **PROFESSIONAL EXPERIENCE**
 
+## **ERPNext AI Assistant  │  Independent Prototype	Jun 2026 – Present**
+
+*Self-directed AI upskilling: building an early-stage chat assistant for the open-source ERPNext system.*
+
+* Built an intent classifier and router that directs each request to the right handler.
+
+* Implemented tool calling so the assistant can retrieve ERPNext data, handle approval reviews, answer questions about ERP functionality, and navigate users to the right page.
+
+* Wrote a custom Python LLM handler without a framework, designed to support multiple providers; currently runs on the Gemini API with WebSocket streaming.
+
 ## **VP of Engineering  │  Bobobox	Jul 2025 – Jun 2026**
 
 *Owned the entire technology organization of 30+ engineers, from development to operations.*
 
 * Led Software Engineering, IoT, DevOps, Data, and TechOps as one organization, aligning priorities across divisions and with business stakeholders while maintaining operational continuity.
 
-* Redesigned the engineering organization structure and introduced Agile delivery workflows, improving development productivity and giving leadership clearer visibility into delivery.
+* Rebuilt a non-functioning SDLC by redesigning the organization structure and introducing Agile delivery workflows, improving cycle time and on-time delivery.
 
-* Established IT governance through SOPs and security protocols, and migrated to open-source alternatives to reduce technology OPEX while meeting regulatory compliance.
+* Cut software licence costs by up to IDR 100M per month by moving project management, device management (desktop and Android), and workstations to open-source alternatives including Linux.
 
-* Defined the technology roadmap covering a Property Management System (PMS) and a Lakehouse data architecture, setting the foundation for operational and data capabilities.
+* Reduced infrastructure costs by simplifying the architecture and downscaling.
 
-## **Entrepreneur in Residence  │  Antler	Aug – Nov 2024**
+* Established IT governance through SOPs and security protocols, and began ISO 27001 preparation.
+
+* Defined the technology roadmap covering a Property Management System (PMS) and a Lakehouse data architecture; both were in progress when the role ended.
+
+* Also acted as Engineering Manager for IoT and TechOps due to limited headcount, including on-site connectivity issues.
+
+## **Entrepreneur in Residence (4-month program)  │  Antler	Aug – Nov 2024**
 
 *Explored and validated new technology venture ideas within Antler's founder cohort.*
 
@@ -46,7 +62,9 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 * Audited legacy systems and converted technical debt into a structured modernization roadmap, giving leadership a clear basis for engineering investment priorities.
 
-* Served as interim Data Engineering lead during a leadership transition, maintaining business-as-usual operations and data integrity.
+* Served as interim Data Engineering lead for 4 months during a leadership transition, maintaining business-as-usual operations and data integrity.
+
+* Supported ISO 27001 preparation led by the infrastructure team.
 
 ## **Senior Principal Engineer  │  Tiket.com	Apr 2019 – Apr 2021**
 
@@ -56,7 +74,7 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 * Provided interim technical leadership for the B2B division during a cross-team restructuring, ensuring continuity of technical direction.
 
-* Resolved critical performance bottlenecks in core authentication services, improving platform uptime.
+* Resolved the core authentication service bottleneck during sales campaigns through a rewrite; no further campaign incidents followed.
 
 * Served as Microservices subject-matter expert and established Go as the core backend standard.
 
@@ -66,7 +84,7 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 * Built high-throughput fraud prevention systems to protect platform integrity during a period of rapid user growth.
 
-* Designed and open-sourced BaritoLog, a distributed logging platform adopted across multiple internal teams (github.com/baritolog).
+* Designed and open-sourced BaritoLog, a distributed logging platform adopted across the organization (github.com/baritolog).
 
 * Hardened backend services to support the international launch of Go-Food in Vietnam and Thailand.
 
@@ -88,17 +106,21 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 # **AREAS OF EXPERTISE**
 
-**Technology Leadership & AI Strategy**
+**Technology Leadership**
 
-Strategic Roadmap Planning, AI Implementation Strategy, Budget Management, Cross-Functional Alignment, SDLC Management, Agile/Scrum, Product Engineering, Engineering Productivity.
+Strategic Roadmap Planning, Budget Management, Cross-Functional Alignment, SDLC Management, Agile/Scrum, Product Engineering, Engineering Productivity, IT Governance.
 
 **Platform Architecture & Design**
 
-Microservices & Distributed Systems, System Reliability, Cloud & DevOps Architecture, Data Engineering Architecture, Event-Driven Architecture, LLM Application Architecture.
+Microservices & Distributed Systems, System Reliability, Cloud & DevOps Architecture, Data Engineering Architecture, Event-Driven Architecture.
 
 **Core Technologies**
 
-Go, Python, TypeScript, PostgreSQL, MySQL, Redis, Kafka, Elasticsearch, LLM APIs, Vector Databases, Prompt Engineering, Agentic Workflows.
+Go, Python, TypeScript, PostgreSQL, MySQL, Redis, Kafka, Elasticsearch.
+
+**Applied AI (personal projects)**
+
+LLM APIs (Gemini), Tool Calling, Intent Classification, Prompt Engineering, Agentic Workflows.
 
 # **CERTIFICATIONS**
 

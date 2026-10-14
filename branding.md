@@ -25,13 +25,20 @@ I’m a technology and engineering leader with 15+ years of experience across re
 **ERPNext AI Assistant — independent prototype**  
 Developing a chat assistant that uses tools to interact with ERPNext and an intent classifier/router-dispatcher to direct requests. Also working on ERPNext UI/UX and Indonesian-language improvements. Early-stage; no user adoption or business outcomes claimed.
 
-*Status:* started around June 2026 (approximate). CV presentation not yet decided—working wording only.
+*Status:* started June 2026; on the CV as an independent prototype.
+
+- **Implemented:** intent classifier and router; tool calling to retrieve data, handle approval reviews, answer ERP functionality questions, and navigate pages.
+- **Stack:** Python, Gemini API, WebSocket streaming; custom multi-provider LLM handler, no framework.
+- **Planned:** vector database, demo video. Add to the CV only once built.
+- **Not yet:** users.
 
 ## Keep it consistent
 
 - Put leadership outcomes before AI on the CV and job profiles.
 - Separate implemented features from work in progress or plans.
-- Add the exact project start date, stack, and demo when confirmed.
+- Add the demo link once the video is recorded.
+- Keep navario.id off the CV until it has clients.
+- Leave short, unsuccessful stints (e.g. the 2024 EV startup) off the CV; disclose them honestly if asked.
 - Use the same project name (ERPNext), dates, and maturity description across CV, LinkedIn, website, and GitHub.
 - Use the same domain wording everywhere (e.g., "on-demand mobility").
-- List only AI skills backed by real work; avoid broad terms (e.g., vector databases, agentic workflows) unless confirmed.
+- List only AI skills backed by real work, and label them as personal-project experience.
