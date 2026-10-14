@@ -4,8 +4,8 @@
 
 | | Key points |
 |---|---|
-| **Strengths** | 15+ years in technology; led 30–50+ person organizations. Experience across fintech, hospitality, travel, and mobility. Combines engineering depth with org leadership, modernization, governance, and delivery. Building an ERPNext chat assistant with tool access and intent routing. |
-| **Weaknesses** | AI project is an early prototype, with no users or measured outcomes. CV does not yet give it a dedicated project entry. Broad AI terms need concrete examples. Current transition since June 2026 needs an accurate, clear description. |
+| **Strengths** | 15+ years in technology; led 30–50+ person organizations. Experience across fintech, hospitality, travel, and mobility, at recognized Indonesian tech companies (Gojek, Tiket.com, Koinworks). Regulated-fintech governance and risk background (AFPI Risk Management certification). Combines engineering depth with org leadership, modernization, governance, and delivery. Certified professional coach; Master's in IS Management. Open-source track record (BaritoLog). Building an ERPNext chat assistant with tool access and intent routing. |
+| **Weaknesses** | AI project is an early prototype (started around June 2026), with no users or measured outcomes. CV does not yet give it a dedicated project entry. Broad AI terms on the CV need concrete examples. Leadership outcomes on the CV lack metrics (productivity, uptime, OPEX). Recent tenures are short (Bobobox ~11 months, Antler 4 months), with gaps from Dec 2024 to Jun 2025 and since Jun 2026 that need an accurate, clear description. |
 | **Opportunities** | Position as an engineering leader who can adopt AI pragmatically. Target leadership roles involving modernization, platforms, or AI adoption. Use a demo or case study to show the ERPNext assistant, including architecture and limitations. Indonesian-language improvements may add differentiation if demonstrated. |
 | **Threats** | Applied-AI candidates may have stronger production evidence. Overstating prototype maturity risks credibility. Leading with consultancy may confuse job-search intent. An AI-first brand could overshadow proven leadership strengths. Inconsistent dates or project descriptions across profiles may raise questions. |
 
@@ -15,6 +15,7 @@ Lead with **engineering leadership and transformation**; make **practical AI ado
 
 ## Best next proof
 
-- Add a dated ERPNext project entry to the CV.
+- Decide how to present the ERPNext project on the CV, then add a dated entry.
+- Add real numbers to key leadership bullets where available (team growth, delivery, uptime, cost savings).
 - Share a safe demo or short case study: workflow, stack, implemented features, limitations.
 - Add metrics only after measuring them; align project status and dates across profiles.
