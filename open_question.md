@@ -90,6 +90,10 @@ Answer under each item. Rough answers are fine; "don't know" or "skip" is also a
   - Answer: Only ERPNext.
   - Note: Rename to "Practical AI Adoption" or similar; the current label implies company-level AI work.
 
+- [x] **23. New AI terms:** Headless AI Agent, MCP Server, Reasoning Layer, Vector Database?
+  - Answer: Reasoning layer is in the ERPNext assistant (intent classifier sends complex requests to it). Headless AI agent and MCP server are consultancy offerings, with portfolio pieces being prepared. Vector database still planned.
+  - Decision: Reasoning layer added to the CV. The other three stay off until built; add them to the ERPNext entry (or a new project) once there is working code.
+
 ## Resolved
 
 - [x] **Antler tenure:** It was a 4-month program, so the short tenure is expected.

@@ -22,12 +22,12 @@ I’m a technology and engineering leader with 15+ years of experience across re
 
 ## ERPNext project wording
 
-**ERPNext AI Assistant — independent prototype**  
+**ERPNext AI Assistant — personal project**  
 Developing a chat assistant that uses tools to interact with ERPNext and an intent classifier/router-dispatcher to direct requests. Also working on ERPNext UI/UX and Indonesian-language improvements. Early-stage; no user adoption or business outcomes claimed.
 
-*Status:* started June 2026; on the CV as an independent prototype.
+*Status:* started June 2026; in the CV Highlight Project section as a personal project.
 
-- **Implemented:** intent classifier and router; tool calling to retrieve data, handle approval reviews, answer ERP functionality questions, and navigate pages.
+- **Implemented:** intent classifier and router, which sends complex requests to a reasoning layer; tool calling to retrieve data, handle approval reviews, answer ERP functionality questions, and navigate pages.
 - **Stack:** Python, Gemini API, WebSocket streaming; custom multi-provider LLM handler, no framework.
 - **Planned:** vector database, demo video. Add to the CV only once built.
 - **Not yet:** users.

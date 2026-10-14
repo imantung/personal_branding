@@ -1,6 +1,5 @@
 # **Iman Tunggono**
-
-## *Technology & Engineering Leader*
+*Technology & Engineering Leader*
 
 iman.tung@gmail.com  │  \+62 813-8978-0501  │  Jakarta, Indonesia
 
@@ -8,23 +7,13 @@ iman.tung@gmail.com  │  \+62 813-8978-0501  │  Jakarta, Indonesia
 
 # **OVERVIEW**
 
-Engineering leader with 15+ years across on-demand mobility, travel marketplace, regulated fintech lending, and hospitality technology. Has led organizations of 30 to 50+ engineers, spanning product engineering, DevOps, data, and technical operations, with a track record of turning legacy complexity into clear roadmaps, sound IT governance, and predictable delivery. Began as a hands-on backend engineer (Go, distributed systems), so leads with technical credibility as well as people leadership, and is a certified professional coach. Currently building an early-stage AI chat assistant for the open-source ERPNext system as an independent prototype, with a pragmatic, cost-conscious view of where AI adds real value.
+Engineering leader with 15+ years across on-demand mobility, travel marketplace, regulated fintech lending, and hospitality technology. Has led organizations of 30 to 50+ engineers, spanning product engineering, DevOps, data, and technical operations, with a track record of turning legacy complexity into clear roadmaps, sound IT governance, and predictable delivery. Began as a hands-on backend engineer (Go, distributed systems), so leads with technical credibility as well as people leadership, and is a certified professional coach. Currently building an early-stage AI chat assistant for the open-source ERPNext system as a personal project, with a pragmatic, cost-conscious view of where AI adds real value.
 
 * **Org scope:** 30 to 50+ engineers; multi-division organizations (Software Engineering, IoT, DevOps, Data, TechOps)  
 * **Domains:** Regulated fintech lending (LOS/LMS), hospitality technology, travel marketplace, on-demand mobility  
 * **Leadership focus:** Technology roadmap, organization design, IT governance and compliance, engineering productivity, cost-conscious architecture
 
 # **PROFESSIONAL EXPERIENCE**
-
-## **ERPNext AI Assistant  │  Independent Prototype	Jun 2026 – Present**
-
-*Self-directed AI upskilling: building an early-stage chat assistant for the open-source ERPNext system.*
-
-* Built an intent classifier and router that directs each request to the right handler.
-
-* Implemented tool calling so the assistant can retrieve ERPNext data, handle approval reviews, answer questions about ERP functionality, and navigate users to the right page.
-
-* Wrote a custom Python LLM handler without a framework, designed to support multiple providers; currently runs on the Gemini API with WebSocket streaming.
 
 ## **VP of Engineering  │  Bobobox	Jul 2025 – Jun 2026**
 
@@ -98,6 +87,18 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 * **Software Lab Assistant, BINUS University**: programming instruction for 200+ students.
 
+# **HIGHLIGHT PROJECT**
+
+## **ERPNext AI Assistant  │  Personal Project	Jun 2026 – Present**
+
+*Early-stage chat assistant for the open-source ERPNext system, built for hands-on AI upskilling.*
+
+* Built an intent classifier and router that directs each request to the right handler, including a reasoning layer for complex requests.
+
+* Implemented tool calling so the assistant can retrieve ERPNext data, handle approval reviews, answer questions about ERP functionality, and navigate users to the right page.
+
+* Wrote a custom Python LLM handler without a framework, designed to support multiple providers; currently runs on the Gemini API with WebSocket streaming.
+
 # **EDUCATION**
 
 **Master of Information Systems Management**  │  Bina Nusantara University	2023 – 2024
@@ -110,17 +111,13 @@ Engineering leader with 15+ years across on-demand mobility, travel marketplace,
 
 Strategic Roadmap Planning, Budget Management, Cross-Functional Alignment, SDLC Management, Agile/Scrum, Product Engineering, Engineering Productivity, IT Governance.
 
-**Platform Architecture & Design**
+**Architecture & Technology**
 
-Microservices & Distributed Systems, System Reliability, Cloud & DevOps Architecture, Data Engineering Architecture, Event-Driven Architecture.
+Microservices & Distributed Systems, Event-Driven Architecture, System Reliability, Cloud & DevOps Architecture, Data Engineering Architecture, Go, Python, TypeScript, PostgreSQL, MySQL, Redis, Kafka, Elasticsearch.
 
-**Core Technologies**
+**AI Engineering**
 
-Go, Python, TypeScript, PostgreSQL, MySQL, Redis, Kafka, Elasticsearch.
-
-**Applied AI (personal projects)**
-
-LLM APIs (Gemini), Tool Calling, Intent Classification, Prompt Engineering, Agentic Workflows.
+LLM APIs (Gemini), Tool Calling, Intent Classification, Prompt Engineering, Reasoning Layer, Agentic Workflows.
 
 # **CERTIFICATIONS**
 
