@@ -2,12 +2,40 @@
 
 **Goal:** Focus on senior engineering leadership roles; let practical AI experience differentiate the profile. Keep the brand compatible with the consultancy, without making consultancy the job-search message.
 
-| | Key points |
-|---|---|
-| **Strengths** | 15+ years in technology; led 30–50+ person organizations. Experience across fintech, hospitality, travel, and mobility, at recognized Indonesian tech companies (Gojek, Tiket.com, Koinworks). Regulated-fintech governance and risk background (AFPI Risk Management certification). Combines engineering depth with org leadership, modernization, governance, and delivery. Certified professional coach; Master's in IS Management. Open-source track record (BaritoLog). Building an ERPNext chat assistant with tool access and intent routing. |
-| **Weaknesses** | AI project is an early prototype (started around June 2026), with no users or measured outcomes. CV does not yet give it a dedicated project entry. Broad AI terms on the CV need concrete examples. Leadership outcomes on the CV lack metrics (productivity, uptime, OPEX). Recent tenures are short (Bobobox ~11 months, Antler 4 months), with gaps from Dec 2024 to Jun 2025 and since Jun 2026 that need an accurate, clear description. |
-| **Opportunities** | Position as an engineering leader who can adopt AI pragmatically. Target leadership roles involving modernization, platforms, or AI adoption. Use a demo or case study to show the ERPNext assistant, including architecture and limitations. Indonesian-language improvements may add differentiation if demonstrated. |
-| **Threats** | Applied-AI candidates may have stronger production evidence. Overstating prototype maturity risks credibility. Leading with consultancy may confuse job-search intent. An AI-first brand could overshadow proven leadership strengths. Inconsistent dates or project descriptions across profiles may raise questions. |
+## Strengths
+
+- **Experience:** 15+ years in technology; led 30–50+ person organizations.
+- **Domains:** Fintech, hospitality, travel, and mobility.
+- **Known companies:** Gojek, Tiket.com, Koinworks.
+- **Governance:** Regulated-fintech governance and risk background (AFPI Risk Management certification).
+- **Range:** Engineering depth plus org leadership, modernization, governance, and delivery.
+- **Credentials:** Certified professional coach; Master's in IS Management.
+- **Open source:** BaritoLog.
+- **Current AI work:** Building an ERPNext chat assistant with tool access and intent routing.
+
+## Weaknesses
+
+- **AI maturity:** Early prototype (started around June 2026); no users or measured outcomes.
+- **CV gap:** No dedicated entry for the AI project yet.
+- **Vague AI terms:** Broad AI terms on the CV need concrete examples.
+- **No metrics:** Leadership outcomes lack numbers (productivity, uptime, OPEX).
+- **Short tenures:** Bobobox ~11 months, Antler 4 months.
+- **Employment gaps:** Dec 2024 – Jun 2025, and since Jun 2026; need an accurate, clear description.
+
+## Opportunities
+
+- **Positioning:** Engineering leader who adopts AI pragmatically.
+- **Target roles:** Leadership in modernization, platforms, or AI adoption.
+- **Proof:** Demo or case study of the ERPNext assistant, including architecture and limitations.
+- **Differentiator:** Indonesian-language improvements, if demonstrated.
+
+## Threats
+
+- **Competition:** Applied-AI candidates may have stronger production evidence.
+- **Credibility:** Overstating prototype maturity.
+- **Mixed signals:** Leading with consultancy may confuse job-search intent.
+- **Brand drift:** An AI-first brand could overshadow proven leadership strengths.
+- **Inconsistency:** Mismatched dates or project descriptions across profiles may raise questions.
 
 ## Takeaway
 

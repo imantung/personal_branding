@@ -9,6 +9,7 @@ Personal-branding workspace for Iman: resume, positioning, and brand strategy.
 | [resume/resume.md](resume/resume.md) | Master resume | Writing any career content |
 | [branding.md](branding.md) | Positioning and messaging | Writing profiles, bios, posts |
 | [swot.md](swot.md) | Strengths, gaps, risks | Making strategy calls |
+| [open_question.md](open_question.md) | Unanswered facts and their status | Before filling gaps or adding metrics |
 
 - **New files:** Scan the project for anything not listed.
 - **Keep this table current** when files are added or removed.
