@@ -13,8 +13,8 @@ iman.tung@gmail.com  │  +62 813-8978-0501  │  Jakarta, Indonesia
 Engineering Leader with 15+ years of experience scaling software organizations, architecting distributed backend platforms, and building AI agent workflows. Combines a background in high-throughput backend architecture with hands-on expertise in LLM APIs, tool calling, and workflow automation.
 
 * **Org Leadership:** Led engineering organizations of 30–50+ people across multiple technical disciplines and product domains.
-* **Core Engineering:** Distributed Systems, High-Throughput Microservices, Backend Scalability, & LLM Tool Integration.
-* **Industry Scope:** Regulated Fintech, Hospitality Tech, Travel Marketplaces, and On-Demand Mobility platforms.
+* **Technical Focus:** Distributed Systems, High-Throughput Microservices, Backend Scalability, & LLM Tool Integration.
+* **Industry Experience:** Regulated Fintech, Hospitality Tech, Travel Marketplaces, and On-Demand Mobility platforms.
 
 ---
 
@@ -42,7 +42,7 @@ Engineering Leader with 15+ years of experience scaling software organizations, 
 *Directed loan product engineering across 5 regulated fintech lending streams.*
 
 * **Team Scaling:** Scaled the unit from 1 to 3 domain teams (50+ total engineers), establishing Engineering Manager leadership layers.
-* **Load Platform Engineering:** Led engineering for core loan origination and management systems supporting regulated lending operations.
+* **Loan Platform Engineering:** Led engineering for core loan origination and management systems supporting regulated lending operations.
 * **Process Optimization:** Standardized the SDLC across all loan teams, reducing delivery delays and deployment failures.
 * **Tech Governance:** Conducted technical audits of legacy codebases and established a debt-reduction roadmap for executive planning.
 * **Interim Leadership:** Served as interim Data Engineering Lead to maintain data pipeline operations and reporting integrity.
@@ -51,9 +51,9 @@ Engineering Leader with 15+ years of experience scaling software organizations, 
 
 *Led R&D initiatives and core backend platform architecture.*
 
-* **System Optimization**: Rewrote the core authentication service to address database bottlenecks during peak promotional campaigns.
+* **System Optimization:** Rewrote the core authentication service to address database bottlenecks during peak promotional campaigns.
 * **Tech Standardization:** Established Go as the standardized backend language and mentored teams on microservices design.
-* **Interim Leadership:** Provided interim technical leadership for the B2B division during organizational restructuring.
+* **B2B Leadership:** Provided interim technical leadership for the B2B division during organizational restructuring.
 
 #### **Senior Product Engineer  │  Gojek** *(May 2015 – Jan 2019)*
 
@@ -80,7 +80,8 @@ Engineering Leader with 15+ years of experience scaling software organizations, 
 
 * **Core Architecture:** Architected an intent classifier and router in Python to parse operational requests and execute system tasks.
 * **Tool Integration:** Implemented function-calling tools to query live ERP data, trigger approval flows, and navigate UI screens.
-* **Streaming Pipeline**: Built a Python-based LLM integration layer using the Google Gemini API and real-time WebSocket streaming.
+* **Safety & Guardrails:** Enforced execution safety via human-in-the-loop action confirmations, RBAC checks, and strict schema validation.
+* **Streaming Pipeline:** Connected the Google Gemini API with real-time WebSocket streaming.
 
 ---
 
