@@ -10,101 +10,98 @@ iman.tung@gmail.com  │  +62 813-8978-0501  │  Jakarta, Indonesia
 
 ### **SUMMARY**
 
-Engineering leader with 15+ years of experience scaling software organizations, architecting distributed backends, and building autonomous AI agents. Combines a track record in system scalability and team leadership with hands-on development of LLM workflows and tool-calling systems. Focuses on aligning software delivery with business goals through technical roadmaps, sound governance, and structured coaching.
+Engineering Leader with 15+ years of experience scaling software organizations, architecting distributed backend platforms, and building AI agent workflows. Combines a background in high-throughput backend architecture with hands-on expertise in LLM APIs, tool calling, and workflow automation.
 
-* **Org Leadership:** Oversee multi-team engineering orgs (30–50+ engineers across 3–5 teams) through Engineering Managers and direct leadership.
-* **Core Engineering:** Distributed Systems, Backend Scalability, & Practical AI Agent Integration.
-* **Industry Experience:** Built scalable engineering platforms across fintech lending, hospitality tech, travel marketplace, and on-demand mobility.
+* **Org Leadership:** Led engineering organizations of 30–50+ engineers across 3–5 specialized domain teams.
+* **Core Engineering:** Distributed Systems, High-Throughput Microservices, Backend Scalability, & LLM Tool Integration.
+* **Industry Scope:** Regulated Fintech, Hospitality Tech, Travel Marketplaces, and On-Demand Mobility platforms.
 
 ---
 
 ### **PROFESSIONAL EXPERIENCE**
 
-#### **VP of Engineering  │  Bobobox  *(Jul 2025 – Jun 2026)***
+#### **VP of Engineering  │  Bobobox** *(Jul 2025 – Jun 2026)*
 
-*Owned the technology organization (30+ engineers), overseeing 5 cross-domain teams across development, infrastructure, and operations.*
+*Led the 30+ person engineering organization across Software, IoT, DevOps, Data, and TechOps.*
 
-* Consolidated Software Engineering, IoT, DevOps, Data, and TechOps into a single organization, managing through Engineering Managers and directly managing IoT and TechOps where no EM was in place.
-* Introduced Agile delivery workflows and established IT governance standards and security protocols.
-* Cut software licence costs by up to IDR 100M per month by migrating project management, device management, and workstations to open-source tools, including Linux.
-* Initiated the data team to build a data warehouse.
+* Consolidated 5 distinct engineering units into a unified organizational structure.
+* Reduced infrastructure and software licensing costs by IDR 100M/month by migrating project management and device management to open-source systems.
+* Established IT governance standards, security protocols, and standardized Agile delivery workflows.
+* Initiated and built the company's central data warehouse team from the ground up.
 
-#### **Entrepreneur in Residence (4-Month Program)  │  Antler  *(Aug 2024 – Nov 2024)***
+#### **Entrepreneur in Residence  │  Antler** *(Aug 2024 – Nov 2024)*
 
-*Explored and validated early-stage technology business concepts within a founder cohort.*
+*Evaluated early-stage technology products and technical feasibility.*
 
-* Conducted market research and tested technical feasibility for early-stage software products with co-founders.
-* Built rapid prototypes to validate product assumptions before committing engineering resources.
-* Formulated Go-to-Market (GTM) technical strategies for early-stage ventures.
+* Developed rapid software prototypes to validate technical viability and market demand.
+* Defined Go-to-Market (GTM) technical strategies and architecture for early-stage software products.
 
-#### **Head of Engineering  │  Koinworks  *(May 2021 – Apr 2024)***
+#### **Head of Engineering  │  Koinworks** *(May 2021 – Apr 2024)*
 
-*Owned loan product engineering across five streams in regulated fintech lending.*
+*Directed loan product engineering across 5 regulated fintech lending streams.*
 
-* Expanded loan product engineering from 1 team into 3 dedicated teams (each led by an EM) covering five product streams, growing the unit to 50+ engineers.
-* Rebuilt a non-functioning SDLC for the loan product teams.
-* Scaled and maintained the core Loan Origination System (LOS) and Loan Management System (LMS) across five regulated product lines.
-* Audited legacy systems and established a technical debt reduction roadmap, giving executive leadership a clear framework for engineering investments.
-* Served as interim Data Engineering lead during a transition period, ensuring operational continuity and data accuracy.
-* Represented loan product engineering during the infrastructure team’s ISO 27001 preparation.
+* Scaled the unit from 1 to 3 domain teams (50+ total engineers), establishing Engineering Manager leadership layers.
+* Maintained core Loan Origination Systems (LOS) and Loan Management Systems (LMS) serving high-volume regulated lending lines.
+* Standardized the SDLC across all loan teams, drastically reducing delivery delays and deployment failures.
+* Conducted technical audits of legacy codebases and established a debt-reduction roadmap for executive planning.
+* Served as interim Data Engineering Lead to maintain data pipeline operations and reporting integrity.
 
-#### **Senior Principal Engineer  │  Tiket\.com  *(Apr 2019 – Apr 2021)***
+#### **Senior Principal Engineer  │  Tiket.com** *(Apr 2019 – Apr 2021)*
 
-*Drove R&D initiatives and core technical standards as a senior individual contributor.*
+*Led R&D initiatives and core backend platform architecture.*
 
-* Led an R&D team prototyping new product features and evaluating new technologies for platform adoption.
-* Provided interim technical leadership for the B2B division during cross-team restructuring.
-* Rewrote the core authentication service to remove a performance bottleneck; no further incidents during sales campaigns.
-* Established Go as the core backend language and served as subject-matter expert for microservices architecture.
+* Rewrote the core authentication service to eliminate database bottlenecks during peak promotional campaigns.
+* Established Go as the standardized backend language and mentored teams on microservices design.
+* Provided interim technical leadership for the B2B division during organizational restructuring.
 
-#### **Senior Product Engineer  │  Gojek  *(May 2015 – Jan 2019)***
+#### **Senior Product Engineer  │  Gojek** *(May 2015 – Jan 2019)*
 
-*Designed backend systems across fraud prevention, infrastructure, and regional expansion.*
+*Engineered core backend services across fraud prevention, infrastructure, and international expansion.*
 
-* Built high-throughput fraud prevention systems to protect platform integrity during peak user growth.
-* Designed and open-sourced distributed logging platform adopted across internal teams.
-* Scaled backend services to support international market launches in Vietnam and Thailand.
+* Built high-throughput fraud prevention microservices to detect and block malicious activity during peak usage.
+* Designed an open-sourced distributed logging platform adopted across internal engineering teams.
+* Scaled backend architecture to support international expansion into Vietnam and Thailand.
 
-#### **Early Career Highlights  │  *(2007 – 2015)***
+#### **Early Career Highlights** *(2007 – 2015)*
 
-* **Game Developer, Entercrews:** Cross-platform mobile games (Java, Corona SDK).
-* **BlackBerry Engineer, Phasedev:** Location-based applications (Java RIM, J2ME).
-* **Application Support, Citibank:** Regulatory reporting systems for Bank Indonesia.
-* **Software Lab Assistant, BINUS University:** Taught lab sessions for programming and web development courses.
+* **Game Developer, Entercrews:** Developed cross-platform mobile games (Java, Corona SDK).
+* **BlackBerry Engineer, Phasedev:** Built location-based applications (Java RIM, J2ME).
+* **Application Support, Citibank:** Maintained regulatory reporting systems for Bank Indonesia.
+* **Software Lab Assistant, BINUS University:** Taught lab sessions for Java and web development.
 
 ---
 
-### **SELECTED HIGHLIGHT PROJECT**
+### **TECHNICAL PROJECT**
 
-#### **ERPNext AI Assistant (Personal R&D Project)  │  *(Jul 2026 – Present)***
+#### **ERPNext AI Assistant (R&D Project)** *(Jul 2026 – Present)*
 
-*Built a conversational AI assistant for open-source ERPNext to automate enterprise workflows through tool calling.*
+*Built an AI integration layer for open-source ERPNext to automate enterprise workflows via tool calling.*
 
-* Developed an intent classifier, router, and reasoning layer to process operational requests.
-* Implemented tool calling to fetch live ERP data, process approval workflows, answer system queries, and navigate UI pages.
-* Engineered a framework-free Python LLM handler integrating the Gemini API with WebSocket streaming.
+* Architected an intent classifier and router in Python to parse operational requests and execute system tasks.
+* Implemented function-calling tools to query live ERP data, trigger approval flows, and navigate UI screens.
+* Developed a native Python LLM pipeline integrating Google Gemini API with real-time WebSocket streaming.
 
 ---
 
 ### **AREAS OF EXPERTISE**
 
-* **Leadership & Operations:** Strategic Roadmapping, Cross-Functional Alignment, Team Scaling & Org Design, IT Governance, Agile/Scrum.
-* **Backend & Scalability:** Distributed Systems, Microservices, Event-Driven Architecture, High-Throughput Infrastructure, Go, Python, PostgreSQL, Redis.
-* **AI & Emerging Tech:** Autonomous AI Agents, AI Tool Integration, LLM APIs (Gemini), Prompt Engineering.
+* **Engineering Leadership:** Org Design, Tech Roadmapping, IT Governance, Agile/Scrum, Engineering Mentorship.
+* **Backend & Systems:** Distributed Systems, Microservices, Event-Driven Architecture, High Throughput, Go, Python, PostgreSQL, Redis.
+* **AI & Integration:** AI Tool Calling / Function Calling, LLM API Integration (Gemini), Prompt Engineering, WebSockets.
 
 ---
 
 ### **EDUCATION & CERTIFICATIONS**
 
-* **Master of Information Systems Management** – Bina Nusantara University *(2023 – 2024)*
-* **Bachelor of Computer Science** – Bina Nusantara University *(2005 – 2009)*
+* **M.S. in Information Systems Management** – Bina Nusantara University *(2023 – 2024)*
+* **B.S. in Computer Science** – Bina Nusantara University *(2005 – 2009)*
 * **Certified Professional Coach** – Coaching Indonesia *(2022)*
-* **Innovation and Leadership in Digital Transformation** – KOMINFO & Oxford Internet Institute *(2022)*
-* **Risk Management** – AFPI (Asosiasi Fintech Pendanaan Indonesia) *(2023 – 2026)*
+* **Innovation & Leadership in Digital Transformation** – KOMINFO & Oxford Internet Institute *(2022)*
+* **Fintech Risk Management Certification** – AFPI *(2023 – 2026)*
 
 ---
 
-### **LANGUAGE SKILLS**
+### **LANGUAGES**
 
 * **Indonesian:** Native
 * **English:** Professional Working Proficiency
