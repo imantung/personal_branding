@@ -38,6 +38,7 @@ Answer under each item. Rough answers are fine; "don't know" or "skip" is also a
   - Note: The current resume says Bobobox governance was "meeting regulatory compliance". That needs softening to "began ISO 27001 preparation".
 - [x] **8. Roadmap status:** Were the PMS and Lakehouse built, in progress, or still planned when you left?
   - Answer: In progress.
+  - Decision: Don't use "Lakehouse" or the PMS on the CV. Bobobox data work reads as "Initiated the data team to build a data warehouse"; no status shown.
 - [x] **9. Firefighting:** Any rough numbers? (e.g. incidents a month, outages, time to resolve)
   - Answer: No numbers. Also acted as EM for IoT and TechOps because of limited headcount from the start, including on-site internet issues.
 
@@ -72,6 +73,7 @@ Answer under each item. Rough answers are fine; "don't know" or "skip" is also a
 
 - [x] **17. Start date:** Exact month of the ERPNext project?
   - Answer: June 2026.
+  - Decision: CV uses Jul 2026 so it does not overlap with the Bobobox end month (Jun 2026). Use Jul 2026 on all profiles.
 - [x] **18. Status:** Which features work today, and which are in progress or planned?
   - Answer: intent classifier and tool calling is complete. I can learn through the agent, get data, review approval. 
   - Follow-up: Ask the agent about ERP functionality, and it navigates to the page. Added to the CV.

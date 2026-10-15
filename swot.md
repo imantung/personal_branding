@@ -16,7 +16,7 @@
 
 ## Weaknesses
 
-- **AI maturity:** Early prototype (Jun 2026); no users or demo yet.
+- **AI maturity:** Early prototype (Jul 2026); no users or demo yet.
 - **Few metrics:** Most outcomes are qualitative; only the Bobobox licence savings are quantified.
 - **Short tenure:** Bobobox ~11 months, ended by a company-wide restructuring.
 - **Employment gaps:** Apr – Aug 2024 and Dec 2024 – Jun 2025; explained in interviews, not on the CV.
