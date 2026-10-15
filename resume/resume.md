@@ -1,134 +1,108 @@
 # **Iman Tunggono**
+
 *Technology & Engineering Leader*
 
-iman.tung@gmail.com  │  \+62 813-8978-0501  │  Jakarta, Indonesia
+iman.tung@gmail.com  │  +62 813-8978-0501  │  Jakarta, Indonesia
 
 [LinkedIn](https://www.linkedin.com/in/iman-tunggono/)  │  [GitHub](https://github.com/imantung)  │  [Website](https://imantung.com/)
 
-# **OVERVIEW**
+---
 
-Engineering leader with 15+ years across on-demand mobility, travel marketplace, regulated fintech lending, and hospitality technology. Has led organizations of 30 to 50+ engineers, spanning product engineering, DevOps, data, and technical operations, with a track record of turning legacy complexity into clear roadmaps, sound IT governance, and predictable delivery. Began as a hands-on backend engineer (Go, distributed systems), so leads with technical credibility as well as people leadership, and is a certified professional coach. Currently building an early-stage AI chat assistant for the open-source ERPNext system as a personal project, with a pragmatic, cost-conscious view of where AI adds real value.
+### **SUMMARY**
 
-* **Org scope:** 30 to 50+ engineers; multi-division organizations (Software Engineering, IoT, DevOps, Data, TechOps)  
-* **Domains:** Regulated fintech lending (LOS/LMS), hospitality technology, travel marketplace, on-demand mobility  
-* **Leadership focus:** Technology roadmap, organization design, IT governance and compliance, engineering productivity, cost-conscious architecture
+Engineering leader with 15+ years of experience scaling software organizations and architecting distributed backends, now leveraging AI agent architecture to modernize enterprise engineering. Combines deep foundations in systems scalability and organizational leadership with hands-on development of autonomous AI agents and modern LLM workflows. Passionate about bridging technical execution with strategic vision through clear roadmaps, sound governance, and a coaching mindset.
 
-# **PROFESSIONAL EXPERIENCE**
+* **Org Leadership:** Managed 30–50+ engineers across Software Engineering, IoT, DevOps, Data, and TechOps.
+* **Core Engineering Focus:** Backend Scalability, Distributed Systems, & Applied AI Integration.
+* **Industry Exposure:** Delivered scalable technology solutions across fintech lending, hospitality tech, travel marketplace, and on-demand mobility.
 
-## **VP of Engineering  │  Bobobox	Jul 2025 – Jun 2026**
+---
 
-*Owned the entire technology organization of 30+ engineers, from development to operations.*
+### **PROFESSIONAL EXPERIENCE**
 
-* Led Software Engineering, IoT, DevOps, Data, and TechOps as one organization, aligning priorities across divisions and with business stakeholders while maintaining operational continuity.
+#### **VP of Engineering  │  Bobobox  *(Jul 2025 – Jun 2026)***
 
-* Rebuilt a non-functioning SDLC by redesigning the organization structure and introducing Agile delivery workflows, improving cycle time and on-time delivery.
+*Led the entire technology organization (30+ engineers) spanning development, infrastructure, and operations.*
 
-* Cut software licence costs by up to IDR 100M per month by moving project management, device management (desktop and Android), and workstations to open-source alternatives including Linux.
+* Consolidated Software Engineering, IoT, DevOps, Data, and TechOps into a unified organization to align technical execution with business priorities.
+* Restructured engineering teams and introduced Agile delivery workflows, enhancing development throughput and leadership visibility.
+* Established IT governance standards, security protocols, and open-source migration strategies to reduce OPEX while maintaining compliance.
+* Defined core technology roadmaps, laying the groundwork for a scalable Property Management System (PMS) and Lakehouse data architecture.
 
-* Reduced infrastructure costs by simplifying the architecture and downscaling.
+#### **Entrepreneur in Residence (4-Month Program)  │  Antler  *(Aug 2024 – Nov 2024)***
 
-* Established IT governance through SOPs and security protocols, and began ISO 27001 preparation.
+*Explored and validated early-stage technology business concepts within a founder cohort.*
 
-* Defined the technology roadmap covering a Property Management System (PMS) and a Lakehouse data architecture; both were in progress when the role ended.
+* Conducted market research and validated technical business propositions with fellow founders.
+* Utilized rapid prototyping to test product feasibility and technical assumptions prior to commitment.
+* Formulated Go-to-Market (GTM) technical strategies for early-stage ventures.
 
-* Also acted as Engineering Manager for IoT and TechOps due to limited headcount, including on-site connectivity issues.
+#### **Head of Engineering  │  Koinworks  *(May 2021 – Apr 2024)***
 
-## **Entrepreneur in Residence (4-month program)  │  Antler	Aug – Nov 2024**
+*Owned loan product engineering across five streams in a regulated fintech environment.*
 
-*Explored and validated new technology venture ideas within Antler's founder cohort.*
+* Led 50+ engineers in building, scaling, and maintaining the Loan Origination System (LOS) and Loan Management System (LMS).
+* Audited legacy systems and established a structured technical debt reduction roadmap, improving investment prioritization.
+* Served as interim Data Engineering lead during a transition period, ensuring business continuity and data integrity.
+* Represented loan product engineering during the infrastructure team’s ISO 27001 preparation.
 
-* Conducted market research and validated technology business concepts with founders in the cohort.
+#### **Senior Principal Engineer  │  Tiket.com  *(Apr 2019 – Apr 2021)***
 
-* Used rapid prototyping tools to test product and technical assumptions before committing further effort.
+*Drove R&D initiatives and core technical standards as a senior individual contributor.*
 
-* Formulated go-to-market technical strategy for early-stage concepts.
+* Led an R&D prototyping team evaluating emerging technologies for platform adoption.
+* Provided interim technical leadership for the B2B division during cross-team restructuring.
+* Resolved critical performance bottlenecks in core authentication services to improve platform uptime.
+* Established Go as the core backend standard and acted as the resident microservices subject-matter expert.
 
-## **Head of Engineering  │  Koinworks	May 2021 – Apr 2024**
+#### **Senior Product Engineer  │  Gojek  *(May 2015 – Jan 2019)***
 
-*Owned loan product engineering across five product streams in a regulated fintech lending business.*
+*Designed scalable backend systems across fraud prevention, infrastructure, and regional expansion.*
 
-* Led 50+ engineers delivering and scaling the Loan Origination System (LOS) and Loan Management System (LMS) across five product streams.
+* Built high-throughput fraud prevention systems to safeguard platform integrity during rapid user growth.
+* Designed and open-sourced **BaritoLog**, a distributed logging platform widely adopted across internal teams ([github.com/baritolog](https://www.google.com/search?q=https://github.com/baritolog)).
+* Hardened backend services to support international market launches in Vietnam and Thailand.
 
-* Audited legacy systems and converted technical debt into a structured modernization roadmap, giving leadership a clear basis for engineering investment priorities.
+#### **Early Career Highlights  │  *(2007 – 2015)***
 
-* Served as interim Data Engineering lead for 4 months during a leadership transition, maintaining business-as-usual operations and data integrity.
+* **Game Developer, Entercrews:** Cross-platform mobile games (Java, Corona SDK).
+* **BlackBerry Engineer, Phasedev:** Location-based applications like *Bouncity* (Java RIM, J2ME).
+* **Application Support, Citibank:** Regulatory reporting systems for Bank Indonesia.
+* **Software Lab Assistant, BINUS University:** Instructor for programming and web development courses.
 
-* Supported ISO 27001 preparation led by the infrastructure team.
+---
 
-## **Senior Principal Engineer  │  Tiket.com	Apr 2019 – Apr 2021**
+### **SELECTED HIGHLIGHT PROJECT**
 
-*Senior individual contributor exploring emerging technologies and experimental features.*
+#### **ERPNext AI Assistant (Personal R&D Project)  │  *(Jul 2026 – Present)***
 
-* Led an R\&D team prototyping experimental application features and evaluating emerging technologies for adoption.
+*Designed and built a conversational AI assistant for open-source ERPNext to automate enterprise workflows through agentic tool calling.*
 
-* Provided interim technical leadership for the B2B division during a cross-team restructuring, ensuring continuity of technical direction.
+* Developed an intent classifier, router, and reasoning layer to handle complex operational requests.
+* Implemented tool-calling capabilities to fetch ERP data, automate approval reviews, answer enterprise queries, and navigate platform pages.
+* Engineered a framework-free Python LLM handler integrating the Gemini API with WebSocket streaming.
 
-* Resolved the core authentication service bottleneck during sales campaigns through a rewrite; no further campaign incidents followed.
+---
 
-* Served as Microservices subject-matter expert and established Go as the core backend standard.
+### **AREAS OF EXPERTISE**
 
-## **Senior Product Engineer  │  Gojek	May 2015 – Jan 2019**
+* **Technology & Org Leadership:** Strategic Roadmapping, Cross-Functional Alignment, Engineering Productivity, IT Governance, Agile/Scrum.
+* **Backend & Scalability:** Distributed Systems, Microservices, Event-Driven Architecture, High-Throughput Infrastructure, Go, Python, TypeScript, PostgreSQL, Redis, Kafka.
+* **AI Architecture & Enablement:** Autonomous AI Agents, AI Integration & Prototyping, LLM APIs (Gemini), Tool Calling, Ethical AI & Governance, Prompt Engineering.
 
-*Built fraud prevention, open-source logging infrastructure, and services for international expansion.*
+---
 
-* Built high-throughput fraud prevention systems to protect platform integrity during a period of rapid user growth.
+### **EDUCATION & CERTIFICATIONS**
 
-* Designed and open-sourced BaritoLog, a distributed logging platform adopted across the organization (github.com/baritolog).
+* **Master of Information Systems Management** – Bina Nusantara University *(2023 – 2024)*
+* **Bachelor of Computer Science** – Bina Nusantara University *(2005 – 2009)*
+* **Certified Professional Coach** – Coaching Indonesia *(2022)*
+* **Innovation and Leadership in Digital Transformation** – KOMINFO & Oxford Internet Institute *(2022)*
+* **Risk Management** – AFPI (Asosiasi Fintech Pendanaan Indonesia) *(2023 – 2026)*
 
-* Hardened backend services to support the international launch of Go-Food in Vietnam and Thailand.
+---
 
-## **Early Career  │  Software Engineering and Technical Roles	2007 – 2015**
+### **LANGUAGE SKILLS**
 
-* **Game Developer, Entercrews**: cross-platform mobile games (Java, Corona SDK).
-
-* **BlackBerry Engineer, Phasedev**: location-based applications such as Bouncity (Java RIM, J2ME).
-
-* **Application Support, Citibank**: regulatory reporting systems for Bank Indonesia.
-
-* **Software Lab Assistant, BINUS University**: programming instruction for 200+ students.
-
-# **HIGHLIGHT PROJECT**
-
-## **ERPNext AI Assistant  │  Personal Project	Jun 2026 – Present**
-
-*Early-stage chat assistant for the open-source ERPNext system, built for hands-on AI upskilling.*
-
-* Built an intent classifier and router that directs each request to the right handler, including a reasoning layer for complex requests.
-
-* Implemented tool calling so the assistant can retrieve ERPNext data, handle approval reviews, answer questions about ERP functionality, and navigate users to the right page.
-
-* Wrote a custom Python LLM handler without a framework, designed to support multiple providers; currently runs on the Gemini API with WebSocket streaming.
-
-# **EDUCATION**
-
-**Master of Information Systems Management**  │  Bina Nusantara University	2023 – 2024
-
-**Bachelor of Computer Science**  │  Bina Nusantara University	2005 – 2009
-
-# **AREAS OF EXPERTISE**
-
-**Technology Leadership**
-
-Strategic Roadmap Planning, Budget Management, Cross-Functional Alignment, SDLC Management, Agile/Scrum, Product Engineering, Engineering Productivity, IT Governance.
-
-**Architecture & Technology**
-
-Microservices & Distributed Systems, Event-Driven Architecture, System Reliability, Cloud & DevOps Architecture, Data Engineering Architecture, Go, Python, TypeScript, PostgreSQL, MySQL, Redis, Kafka, Elasticsearch.
-
-**AI Engineering**
-
-LLM APIs (Gemini), Tool Calling, Intent Classification, Prompt Engineering, Reasoning Layer, Agentic Workflows.
-
-# **CERTIFICATIONS**
-
-* [Certified Professional Coach](https://drive.google.com/file/d/1c-5dsurqk6yFVTaSHTVA6mtDptKH6Uq7/view?usp=sharing) by Coaching Indonesia (2022)
-
-* [Innovation and Leadership in Digital Transformation](https://drive.google.com/file/d/1UCgtOLofjrNWsNeKGWRN0VYbi32VIqaL/view?usp=sharing) by KOMINFO in collaboration with Oxford Internet Institute (2022)
-
-* [Risk Management](https://drive.google.com/file/d/1FzqLLRzIO64EovMulS24D_jYino8DCub/view?usp=sharing) by AFPI (Asosiasi Fintech Pendanaan Indonesia) (2023 – 2026\)
-
-# **LANGUAGE SKILLS**
-
-* **Indonesian** – Native
-
-* **English** – Professional working proficiency
+* **Indonesian:** Native
+* **English:** Professional Working Proficiency
